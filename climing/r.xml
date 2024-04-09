@@ -1,0 +1,1114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+    <header>
+        <resultCode>0</resultCode>
+        <resultMsg>NORMAL_SERVICE</resultMsg>
+    </header>
+    <body>
+        <items>
+            <item>
+                <frtrlId>0000000002</frtrlId>
+                <frtrlNm>가리산</frtrlNm>
+                <mtnCd>421100101</mtnCd>
+                <ctpvNm>강원특별자치도</ctpvNm>
+                <addrNm>강원도 춘천시 북산면ㆍ동면, 홍천군 두촌면ㆍ화촌면</addrNm>
+                <lat>37.871353</lat>
+                <lot>127.956485</lot>
+                <aslAltide>1051.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000003</frtrlId>
+                <frtrlNm>가리왕산</frtrlNm>
+                <mtnCd>427700101</mtnCd>
+                <ctpvNm>강원특별자치도</ctpvNm>
+                <addrNm>강원도 정선군 정선읍 회동리ㆍ북평면, 평창군 진부면</addrNm>
+                <lat>37.460995</lat>
+                <lot>128.56275</lot>
+                <aslAltide>1561.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000001</frtrlId>
+                <frtrlNm>가야산</frtrlNm>
+                <mtnCd>478400101</mtnCd>
+                <ctpvNm>경상북도</ctpvNm>
+                <addrNm>경상남도 합천군ㆍ거창군, 경상북도 성주군</addrNm>
+                <lat>35.822563</lat>
+                <lot>128.122518</lot>
+                <aslAltide>1430.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000004</frtrlId>
+                <frtrlNm>가지산</frtrlNm>
+                <mtnCd>317100101</mtnCd>
+                <ctpvNm>울산광역시</ctpvNm>
+                <addrNm>울산광역시 울주군, 경상북도 청도군, 경상남도 밀양시</addrNm>
+                <lat>35.619875</lat>
+                <lot>129.003523</lot>
+                <aslAltide>1240.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000005</frtrlId>
+                <frtrlNm>감악산</frtrlNm>
+                <mtnCd>414800101</mtnCd>
+                <ctpvNm>경기도</ctpvNm>
+                <addrNm>경기도 파주시 적성면, 양주시 남면, 연천군 전곡읍</addrNm>
+                <lat>37.941082</lat>
+                <lot>126.969989</lot>
+                <aslAltide>675.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000006</frtrlId>
+                <frtrlNm>강천산</frtrlNm>
+                <mtnCd>457700101</mtnCd>
+                <ctpvNm>전라북도</ctpvNm>
+                <addrNm>전라북도 순창군 팔덕면, 전라남도 담양군 용면</addrNm>
+                <lat>35.388214</lat>
+                <lot>127.034392</lot>
+                <aslAltide>584.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000007</frtrlId>
+                <frtrlNm>계룡산</frtrlNm>
+                <mtnCd>441500301</mtnCd>
+                <ctpvNm>충청남도</ctpvNm>
+                <addrNm>대전광역시, 충청남도 공주시 계룡면, 논산시 상월면, 계룡시 신도안면</addrNm>
+                <lat>36.361424</lat>
+                <lot>127.210292</lot>
+                <aslAltide>845.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000008</frtrlId>
+                <frtrlNm>계방산</frtrlNm>
+                <mtnCd>427206801</mtnCd>
+                <ctpvNm>강원특별자치도</ctpvNm>
+                <addrNm>강원도 홍천군 내면, 평창군 용편면ㆍ진부면</addrNm>
+                <lat>37.728268</lat>
+                <lot>128.46543</lot>
+                <aslAltide>1577.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000009</frtrlId>
+                <frtrlNm>공작산</frtrlNm>
+                <mtnCd>427200401</mtnCd>
+                <ctpvNm>강원특별자치도</ctpvNm>
+                <addrNm>강원도 홍천군 동면, 화촌면</addrNm>
+                <lat>37.71593923</lat>
+                <lot>128.0105456</lot>
+                <aslAltide>887.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000010</frtrlId>
+                <frtrlNm>관악산</frtrlNm>
+                <mtnCd>116200201</mtnCd>
+                <ctpvNm>서울특별시</ctpvNm>
+                <addrNm>서울특별시 관악구, 경기도 안양시, 과천시</addrNm>
+                <lat>37.445044</lat>
+                <lot>126.964223</lot>
+                <aslAltide>629.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000011</frtrlId>
+                <frtrlNm>구병산</frtrlNm>
+                <mtnCd>437200401</mtnCd>
+                <ctpvNm>충청북도</ctpvNm>
+                <addrNm>충청북도 보은군 마로면ㆍ속리산면, 경상북도 상주신 화북면,</addrNm>
+                <lat>36.46989438</lat>
+                <lot>127.8625301</lot>
+                <aslAltide>877.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000012</frtrlId>
+                <frtrlNm>금산</frtrlNm>
+                <mtnCd>488400801</mtnCd>
+                <ctpvNm>경상남도</ctpvNm>
+                <addrNm>경상남도 남해군 상주면, 이동면, 삼동면</addrNm>
+                <lat>34.753803</lat>
+                <lot>127.982936</lot>
+                <aslAltide>701.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000013</frtrlId>
+                <frtrlNm>금수산</frtrlNm>
+                <mtnCd>431500701</mtnCd>
+                <ctpvNm>충청북도</ctpvNm>
+                <addrNm>충청북도 제천시 수산면, 단양군 적성면</addrNm>
+                <lat>36.985009</lat>
+                <lot>128.256761</lot>
+                <aslAltide>1016.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000014</frtrlId>
+                <frtrlNm>금오산</frtrlNm>
+                <mtnCd>471900101</mtnCd>
+                <ctpvNm>경상북도</ctpvNm>
+                <addrNm>경상북도 구미시 칠곡군 북삼읍, 김천시 남면</addrNm>
+                <lat>36.092833</lat>
+                <lot>128.300054</lot>
+                <aslAltide>977.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000015</frtrlId>
+                <frtrlNm>금정산</frtrlNm>
+                <mtnCd>264100101</mtnCd>
+                <ctpvNm>부산광역시</ctpvNm>
+                <addrNm>부산광역시 금정구ㆍ북구, 경상남도 양산시</addrNm>
+                <lat>35.280118</lat>
+                <lot>129.050542</lot>
+                <aslAltide>802.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000016</frtrlId>
+                <frtrlNm>깃대봉</frtrlNm>
+                <mtnCd>469100501</mtnCd>
+                <ctpvNm>전라남도</ctpvNm>
+                <addrNm>전라남도 신안군 흑산면 홍도</addrNm>
+                <lat>34.699941</lat>
+                <lot>125.205139</lot>
+                <aslAltide>368.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000017</frtrlId>
+                <frtrlNm>남산</frtrlNm>
+                <mtnCd>471300201</mtnCd>
+                <ctpvNm>경상북도</ctpvNm>
+                <addrNm>경상북도 경주시 남산동, 내남면</addrNm>
+                <lat>35.767661</lat>
+                <lot>129.225369</lot>
+                <aslAltide>468.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000018</frtrlId>
+                <frtrlNm>내연산</frtrlNm>
+                <mtnCd>471300201</mtnCd>
+                <ctpvNm>경상북도</ctpvNm>
+                <addrNm>경상북도 포항시 송라면ㆍ청하면ㆍ죽장면, 영덕군 남정면</addrNm>
+                <lat>36.263301</lat>
+                <lot>129.258523</lot>
+                <aslAltide>710.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000019</frtrlId>
+                <frtrlNm>내장산</frtrlNm>
+                <mtnCd>451800501</mtnCd>
+                <ctpvNm>전라북도</ctpvNm>
+                <addrNm>전라북도 정읍시 내장동, 순창군 쌍치면ㆍ복흥면</addrNm>
+                <lat>35.478299</lat>
+                <lot>126.888994</lot>
+                <aslAltide>763.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000020</frtrlId>
+                <frtrlNm>대둔산</frtrlNm>
+                <mtnCd>447103401</mtnCd>
+                <ctpvNm>충청남도</ctpvNm>
+                <addrNm>충청남도 논산시 벌곡면ㆍ금산군 진산면, 전라북도 완주군 운주면</addrNm>
+                <lat>36.126556</lat>
+                <lot>127.323071</lot>
+                <aslAltide>878.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000021</frtrlId>
+                <frtrlNm>대암산</frtrlNm>
+                <mtnCd>428101301</mtnCd>
+                <ctpvNm>강원특별자치도</ctpvNm>
+                <addrNm>강원도 양구군 동면, 인제군 서화면</addrNm>
+                <lat>38.21087</lat>
+                <lot>128.13481</lot>
+                <aslAltide>1304.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000022</frtrlId>
+                <frtrlNm>대야산</frtrlNm>
+                <mtnCd>472800901</mtnCd>
+                <ctpvNm>경상북도</ctpvNm>
+                <addrNm>경상북도 문경시 가은읍, 충청북도 괴산군 청천면</addrNm>
+                <lat>36.649026</lat>
+                <lot>127.96407</lot>
+                <aslAltide>931.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000023</frtrlId>
+                <frtrlNm>덕숭산</frtrlNm>
+                <mtnCd>448100401</mtnCd>
+                <ctpvNm>충청남도</ctpvNm>
+                <addrNm>충청남도 예산군 덕산면</addrNm>
+                <lat>36.671737</lat>
+                <lot>126.624461</lot>
+                <aslAltide>495.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000024</frtrlId>
+                <frtrlNm>덕유산</frtrlNm>
+                <mtnCd>457300702</mtnCd>
+                <ctpvNm>전라북도</ctpvNm>
+                <addrNm>전라북도 무주군ㆍ장수군, 경상남도 거창군ㆍ함양군</addrNm>
+                <lat>35.85990274</lat>
+                <lot>127.746381</lot>
+                <aslAltide>1614.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000025</frtrlId>
+                <frtrlNm>덕항산</frtrlNm>
+                <mtnCd>421900601</mtnCd>
+                <ctpvNm>강원특별자치도</ctpvNm>
+                <addrNm>강원도 삼척시 신기면, 태백시 하사미동</addrNm>
+                <lat>37.318296</lat>
+                <lot>129.001612</lot>
+                <aslAltide>1071.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000026</frtrlId>
+                <frtrlNm>도락산</frtrlNm>
+                <mtnCd>438002801</mtnCd>
+                <ctpvNm>충청북도</ctpvNm>
+                <addrNm>충청북도 단양군  단성면, 대강면</addrNm>
+                <lat>36.856368</lat>
+                <lot>128.311091</lot>
+                <aslAltide>964.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000027</frtrlId>
+                <frtrlNm>도봉산</frtrlNm>
+                <mtnCd>113200102</mtnCd>
+                <ctpvNm>서울특별시</ctpvNm>
+                <addrNm>서울특별시 도봉구, 경기도 의정부시 호원동ㆍ양주시 장흥면</addrNm>
+                <lat>37.69883</lat>
+                <lot>127.01547</lot>
+                <aslAltide>740.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000028</frtrlId>
+                <frtrlNm>두륜산</frtrlNm>
+                <mtnCd>468201301</mtnCd>
+                <ctpvNm>전라남도</ctpvNm>
+                <addrNm>전라남도 해남군 삼산면ㆍ북일면ㆍ북평면ㆍ현산면</addrNm>
+                <lat>34.471848</lat>
+                <lot>126.637535</lot>
+                <aslAltide>703.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000029</frtrlId>
+                <frtrlNm>두타산</frtrlNm>
+                <mtnCd>422301901</mtnCd>
+                <ctpvNm>강원특별자치도</ctpvNm>
+                <addrNm>강원도 동해시 삼화동, 삼척시 미로면ㆍ하장면</addrNm>
+                <lat>37.43445721</lat>
+                <lot>128.9734669</lot>
+                <aslAltide>1353.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000030</frtrlId>
+                <frtrlNm>마니산</frtrlNm>
+                <mtnCd>287100601</mtnCd>
+                <ctpvNm>인천광역시</ctpvNm>
+                <addrNm>인천광역시 강화군 화도면</addrNm>
+                <lat>37.612745</lat>
+                <lot>126.436401</lot>
+                <aslAltide>469.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000031</frtrlId>
+                <frtrlNm>마이산</frtrlNm>
+                <mtnCd>457200901</mtnCd>
+                <ctpvNm>전라북도</ctpvNm>
+                <addrNm>전라북도 진안군 진안읍ㆍ마령면</addrNm>
+                <lat>35.760484</lat>
+                <lot>127.411233</lot>
+                <aslAltide>686.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000032</frtrlId>
+                <frtrlNm>명성산</frtrlNm>
+                <mtnCd>427800701</mtnCd>
+                <ctpvNm>경기도</ctpvNm>
+                <addrNm>강원도 철원군 갈말읍, 경기도 포천시 영북면ㆍ이동면</addrNm>
+                <lat>38.090196</lat>
+                <lot>127.337617</lot>
+                <aslAltide>923.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000033</frtrlId>
+                <frtrlNm>명지산</frtrlNm>
+                <mtnCd>418201401</mtnCd>
+                <ctpvNm>경기도</ctpvNm>
+                <addrNm>경기도 가평군 북면ㆍ하면</addrNm>
+                <lat>37.94024567</lat>
+                <lot>127.4325174</lot>
+                <aslAltide>1267.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000034</frtrlId>
+                <frtrlNm>모악산</frtrlNm>
+                <mtnCd>452100701</mtnCd>
+                <ctpvNm>전라북도</ctpvNm>
+                <addrNm>전라북도 김제시 금산면, 전주시 완산구, 완주군 구이면</addrNm>
+                <lat>35.728678</lat>
+                <lot>127.084721</lot>
+                <aslAltide>794.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000035</frtrlId>
+                <frtrlNm>무등산</frtrlNm>
+                <mtnCd>291700501</mtnCd>
+                <ctpvNm>전라남도</ctpvNm>
+                <addrNm>광주광역시 동구, 전라남도 담양군 남면ㆍ화순군 이서면</addrNm>
+                <lat>35.121098</lat>
+                <lot>127.00283</lot>
+                <aslAltide>1187.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000036</frtrlId>
+                <frtrlNm>무학산</frtrlNm>
+                <mtnCd>481500901</mtnCd>
+                <ctpvNm>경상남도</ctpvNm>
+                <addrNm>경상남도 창원시 교방동ㆍ두척동ㆍ내서읍</addrNm>
+                <lat>35.210231</lat>
+                <lot>128.535362</lot>
+                <aslAltide>761.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000037</frtrlId>
+                <frtrlNm>미륵산</frtrlNm>
+                <mtnCd>482201101</mtnCd>
+                <ctpvNm>경상남도</ctpvNm>
+                <addrNm>경상남도 통영시 산양읍ㆍ봉평동</addrNm>
+                <lat>34.810512</lat>
+                <lot>128.41628</lot>
+                <aslAltide>461.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000038</frtrlId>
+                <frtrlNm>민주지산</frtrlNm>
+                <mtnCd>482201101</mtnCd>
+                <ctpvNm>충청북도</ctpvNm>
+                <addrNm>충청북도 영동군, 전라북도 무주군, 경상북도 김천시</addrNm>
+                <lat>36.03976612</lat>
+                <lot>127.849333</lot>
+                <aslAltide>1242.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000039</frtrlId>
+                <frtrlNm>방장산</frtrlNm>
+                <mtnCd>457900601</mtnCd>
+                <ctpvNm>전라북도</ctpvNm>
+                <addrNm>전라북도 고창군 신림면ㆍ정읍시 입암면, 전라남도 장성군</addrNm>
+                <lat>35.455991</lat>
+                <lot>126.75431</lot>
+                <aslAltide>743.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000040</frtrlId>
+                <frtrlNm>방태산</frtrlNm>
+                <mtnCd>428102201</mtnCd>
+                <ctpvNm>강원특별자치도</ctpvNm>
+                <addrNm>강원도 인제군 기린면ㆍ상남면, 홍천군 내면</addrNm>
+                <lat>37.888141</lat>
+                <lot>128.390341</lot>
+                <aslAltide>1444.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000041</frtrlId>
+                <frtrlNm>백덕산</frtrlNm>
+                <mtnCd>427602301</mtnCd>
+                <ctpvNm>강원특별자치도</ctpvNm>
+                <addrNm>강원도 평창군 방림면, 횡성군 안흥면, 영월군 수주면</addrNm>
+                <lat>37.396072</lat>
+                <lot>128.293787</lot>
+                <aslAltide>1350.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000042</frtrlId>
+                <frtrlNm>백암산</frtrlNm>
+                <mtnCd>468801201</mtnCd>
+                <ctpvNm>전라북도</ctpvNm>
+                <addrNm>전라남도 장성군 북하면, 전라북도 순창군 복흥면</addrNm>
+                <lat>35.461171</lat>
+                <lot>126.868349</lot>
+                <aslAltide>741.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000044</frtrlId>
+                <frtrlNm>백운산(광양)</frtrlNm>
+                <mtnCd>462300801</mtnCd>
+                <ctpvNm>전라남도</ctpvNm>
+                <addrNm>전라남도 광양시 진상면ㆍ옥룡면ㆍ봉강면ㆍ다압면, 구례군 간전면</addrNm>
+                <lat>35.106243</lat>
+                <lot>127.621757</lot>
+                <aslAltide>1218.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000045</frtrlId>
+                <frtrlNm>백운산(정선)</frtrlNm>
+                <mtnCd>427708601</mtnCd>
+                <ctpvNm>강원특별자치도</ctpvNm>
+                <addrNm>강원도 정선군 신동읍, 평창군 미탄면</addrNm>
+                <lat>37.29869</lat>
+                <lot>128.579145</lot>
+                <aslAltide>883.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000043</frtrlId>
+                <frtrlNm>백운산(포천)</frtrlNm>
+                <mtnCd>416501801</mtnCd>
+                <ctpvNm>경기도</ctpvNm>
+                <addrNm>경기도 포천시 이동면, 강원도 화천군 사내면</addrNm>
+                <lat>38.130579</lat>
+                <lot>127.492505</lot>
+                <aslAltide>904.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000046</frtrlId>
+                <frtrlNm>변산</frtrlNm>
+                <mtnCd>458002001</mtnCd>
+                <ctpvNm>전라북도</ctpvNm>
+                <addrNm>전라북도 부안군 변산면, 상서면, 진서면</addrNm>
+                <lat>35.679818</lat>
+                <lot>126.620083</lot>
+                <aslAltide>508.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000047</frtrlId>
+                <frtrlNm>북한산</frtrlNm>
+                <mtnCd>113050202</mtnCd>
+                <ctpvNm>서울특별시</ctpvNm>
+                <addrNm>서울특별시 강북구ㆍ성북구ㆍ종로구ㆍ은평구, 경기도 고양시ㆍ양주시</addrNm>
+                <lat>37.658657</lat>
+                <lot>126.978056</lot>
+                <aslAltide>837.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000048</frtrlId>
+                <frtrlNm>비슬산</frtrlNm>
+                <mtnCd>277101501</mtnCd>
+                <ctpvNm>경상북도</ctpvNm>
+                <addrNm>대구광역시 달성군 옥포면ㆍ유가면ㆍ가창면, 경상북도 청도군 각북면</addrNm>
+                <lat>35.71526</lat>
+                <lot>128.523981</lot>
+                <aslAltide>1084.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000049</frtrlId>
+                <frtrlNm>삼악산</frtrlNm>
+                <mtnCd>421102701</mtnCd>
+                <ctpvNm>강원특별자치도</ctpvNm>
+                <addrNm>강원도 춘천시 서면</addrNm>
+                <lat>37.920351</lat>
+                <lot>127.612711</lot>
+                <aslAltide>654.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000050</frtrlId>
+                <frtrlNm>서대산</frtrlNm>
+                <mtnCd>447101401</mtnCd>
+                <ctpvNm>충청남도</ctpvNm>
+                <addrNm>충청남도 금산군 추부면ㆍ군북면, 충청북도 옥천군 군서면</addrNm>
+                <lat>36.220654</lat>
+                <lot>127.538562</lot>
+                <aslAltide>904.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000051</frtrlId>
+                <frtrlNm>선운산</frtrlNm>
+                <mtnCd>457901001</mtnCd>
+                <ctpvNm>전라북도</ctpvNm>
+                <addrNm>전라북도 고창군 아산면ㆍ심원면ㆍ해리면</addrNm>
+                <lat>35.517657</lat>
+                <lot>126.577097</lot>
+                <aslAltide>336.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000052</frtrlId>
+                <frtrlNm>설악산</frtrlNm>
+                <mtnCd>428302602</mtnCd>
+                <ctpvNm>강원특별자치도</ctpvNm>
+                <addrNm>강원도 양양군 서면ㆍ강현면, 속초시 설악동, 인제군 북면ㆍ인제읍</addrNm>
+                <lat>38.119135</lat>
+                <lot>128.46544</lot>
+                <aslAltide>1708.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000053</frtrlId>
+                <frtrlNm>성인봉</frtrlNm>
+                <mtnCd>479400901</mtnCd>
+                <ctpvNm>경상북도</ctpvNm>
+                <addrNm>경상북도 울릉군 울릉읍 서면ㆍ북면</addrNm>
+                <lat>37.497383</lat>
+                <lot>130.866729</lot>
+                <aslAltide>984.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000054</frtrlId>
+                <frtrlNm>소백산</frtrlNm>
+                <mtnCd>438001301</mtnCd>
+                <ctpvNm>충청북도</ctpvNm>
+                <addrNm>충청북도 단양군 단양읍, 경상북도 영주시 풍기읍</addrNm>
+                <lat>36.95786818</lat>
+                <lot>128.4788661</lot>
+                <aslAltide>1439.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000055</frtrlId>
+                <frtrlNm>소요산</frtrlNm>
+                <mtnCd>412500201</mtnCd>
+                <ctpvNm>경기도</ctpvNm>
+                <addrNm>경기도 동두천시, 포천시 신북면</addrNm>
+                <lat>37.915914</lat>
+                <lot>127.132813</lot>
+                <aslAltide>587.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000056</frtrlId>
+                <frtrlNm>속리산</frtrlNm>
+                <mtnCd>437201201</mtnCd>
+                <ctpvNm>충청북도</ctpvNm>
+                <addrNm>충청북도 보은군 내속리면, 경상북도 상주시 화북면</addrNm>
+                <lat>36.543181</lat>
+                <lot>127.870846</lot>
+                <aslAltide>1057.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000057</frtrlId>
+                <frtrlNm>신불산</frtrlNm>
+                <mtnCd>317102401</mtnCd>
+                <ctpvNm>울산광역시</ctpvNm>
+                <addrNm>울산광역시 울주군 삼남면ㆍ상북면</addrNm>
+                <lat>35.53933</lat>
+                <lot>129.053953</lot>
+                <aslAltide>1209.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000058</frtrlId>
+                <frtrlNm>연화산</frtrlNm>
+                <mtnCd>488205101</mtnCd>
+                <ctpvNm>경상남도</ctpvNm>
+                <addrNm>경상남도 고성군 개천면ㆍ영현면</addrNm>
+                <lat>35.063018</lat>
+                <lot>128.26213</lot>
+                <aslAltide>528.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000059</frtrlId>
+                <frtrlNm>오대산</frtrlNm>
+                <mtnCd>421504602</mtnCd>
+                <ctpvNm>강원특별자치도</ctpvNm>
+                <addrNm>강원도 강릉시 연곡면, 평창군 진부면, 홍천군 내면</addrNm>
+                <lat>37.794601</lat>
+                <lot>128.543605</lot>
+                <aslAltide>1563.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000060</frtrlId>
+                <frtrlNm>오봉산</frtrlNm>
+                <mtnCd>421103801</mtnCd>
+                <ctpvNm>강원특별자치도</ctpvNm>
+                <addrNm>강원도 춘천시 북산면, 화천군 간동면</addrNm>
+                <lat>38.00002881</lat>
+                <lot>127.807132</lot>
+                <aslAltide>779.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000061</frtrlId>
+                <frtrlNm>용문산</frtrlNm>
+                <mtnCd>418303101</mtnCd>
+                <ctpvNm>경기도</ctpvNm>
+                <addrNm>경기도 양평군 용문면ㆍ옥천면</addrNm>
+                <lat>37.561979</lat>
+                <lot>127.549637</lot>
+                <aslAltide>1157.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000062</frtrlId>
+                <frtrlNm>용화산</frtrlNm>
+                <mtnCd>427901901</mtnCd>
+                <ctpvNm>강원특별자치도</ctpvNm>
+                <addrNm>강원도 화천군 간동면ㆍ하남면, 춘천시 사북면</addrNm>
+                <lat>38.0380386</lat>
+                <lot>127.7479119</lot>
+                <aslAltide>878.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000063</frtrlId>
+                <frtrlNm>운문산</frtrlNm>
+                <mtnCd>478202401</mtnCd>
+                <ctpvNm>경상북도</ctpvNm>
+                <addrNm>경상북도 청도군 운문면, 경상남도 밀양시 산내면</addrNm>
+                <lat>35.615396</lat>
+                <lot>128.959625</lot>
+                <aslAltide>1188.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000064</frtrlId>
+                <frtrlNm>운악산</frtrlNm>
+                <mtnCd>416502601</mtnCd>
+                <ctpvNm>경기도</ctpvNm>
+                <addrNm>경기도 포천시 화현면, 가평군 하면</addrNm>
+                <lat>37.878718</lat>
+                <lot>127.322893</lot>
+                <aslAltide>936.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000065</frtrlId>
+                <frtrlNm>운장산</frtrlNm>
+                <mtnCd>457202301</mtnCd>
+                <ctpvNm>전라북도</ctpvNm>
+                <addrNm>전라북도 진안군 부귀면, 주천면, 정천면, 완주군 동상면</addrNm>
+                <lat>35.915653</lat>
+                <lot>127.363019</lot>
+                <aslAltide>1126.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000066</frtrlId>
+                <frtrlNm>월악산</frtrlNm>
+                <mtnCd>431503501</mtnCd>
+                <ctpvNm>충청북도</ctpvNm>
+                <addrNm>충청북도 제천시 한수면, 덕산면</addrNm>
+                <lat>36.886045</lat>
+                <lot>128.105844</lot>
+                <aslAltide>1094.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000067</frtrlId>
+                <frtrlNm>월출산</frtrlNm>
+                <mtnCd>468102301</mtnCd>
+                <ctpvNm>전라남도</ctpvNm>
+                <addrNm>전라남도 강진군 성전면, 영암군 영암읍ㆍ군서면ㆍ학산면</addrNm>
+                <lat>34.766997</lat>
+                <lot>126.704294</lot>
+                <aslAltide>809.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000068</frtrlId>
+                <frtrlNm>유명산</frtrlNm>
+                <mtnCd>468102301</mtnCd>
+                <ctpvNm>경기도</ctpvNm>
+                <addrNm>경기도 양평군 옥천면, 가평군 설악면</addrNm>
+                <lat>37.575285</lat>
+                <lot>127.48662</lot>
+                <aslAltide>862.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000069</frtrlId>
+                <frtrlNm>응봉산</frtrlNm>
+                <mtnCd>422305301</mtnCd>
+                <ctpvNm>강원특별자치도</ctpvNm>
+                <addrNm>강원도 삼척시 가곡면ㆍ원덕읍, 경상북도 울진군 북면</addrNm>
+                <lat>37.076597</lat>
+                <lot>129.230461</lot>
+                <aslAltide>999.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000070</frtrlId>
+                <frtrlNm>장안산</frtrlNm>
+                <mtnCd>457402601</mtnCd>
+                <ctpvNm>전라북도</ctpvNm>
+                <addrNm>전라북도 장수군 계남면, 장수읍</addrNm>
+                <lat>35.625733</lat>
+                <lot>127.593443</lot>
+                <aslAltide>1237.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000071</frtrlId>
+                <frtrlNm>재약산</frtrlNm>
+                <mtnCd>482704101</mtnCd>
+                <ctpvNm>경상남도</ctpvNm>
+                <addrNm>경상남도 밀양시 단장면ㆍ산내면, 울산광역시 울주군 상북면</addrNm>
+                <lat>35.557707</lat>
+                <lot>128.97228</lot>
+                <aslAltide>1189.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000072</frtrlId>
+                <frtrlNm>적상산</frtrlNm>
+                <mtnCd>457301901</mtnCd>
+                <ctpvNm>전라북도</ctpvNm>
+                <addrNm>전라북도 무주군 적상면</addrNm>
+                <lat>35.946508</lat>
+                <lot>127.689936</lot>
+                <aslAltide>1034.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000073</frtrlId>
+                <frtrlNm>점봉산</frtrlNm>
+                <mtnCd>428104601</mtnCd>
+                <ctpvNm>강원특별자치도</ctpvNm>
+                <addrNm>강원도 인제군 인제읍ㆍ기린면, 양양군 서면</addrNm>
+                <lat>38.027861</lat>
+                <lot>128.432476</lot>
+                <aslAltide>1424.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000074</frtrlId>
+                <frtrlNm>조계산</frtrlNm>
+                <mtnCd>461502801</mtnCd>
+                <ctpvNm>전라남도</ctpvNm>
+                <addrNm>전라남도 순천시 송광면ㆍ승주읍</addrNm>
+                <lat>35.001211</lat>
+                <lot>127.313555</lot>
+                <aslAltide>884.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000075</frtrlId>
+                <frtrlNm>주왕산</frtrlNm>
+                <mtnCd>477502301</mtnCd>
+                <ctpvNm>경상북도</ctpvNm>
+                <addrNm>경상북도 청송군 부동면ㆍ청송읍, 영덕군 지품면ㆍ달산면</addrNm>
+                <lat>36.389337</lat>
+                <lot>129.162417</lot>
+                <aslAltide>721.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000076</frtrlId>
+                <frtrlNm>주흘산</frtrlNm>
+                <mtnCd>472803901</mtnCd>
+                <ctpvNm>경상북도</ctpvNm>
+                <addrNm>경상북도 문경시 문경읍</addrNm>
+                <lat>36.78844</lat>
+                <lot>128.101271</lot>
+                <aslAltide>1106.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000077</frtrlId>
+                <frtrlNm>지리산</frtrlNm>
+                <mtnCd>488605302</mtnCd>
+                <ctpvNm>경상남도</ctpvNm>
+                <addrNm>경상남도 산청군ㆍ하동군ㆍ함양군, 전라북도 남원시, 전라남도 구례군</addrNm>
+                <lat>35.336971</lat>
+                <lot>127.730474</lot>
+                <aslAltide>1915.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000078</frtrlId>
+                <frtrlNm>지리산(통영)</frtrlNm>
+                <mtnCd>482202301</mtnCd>
+                <ctpvNm>경상남도</ctpvNm>
+                <addrNm>경상남도 통영시 사량면</addrNm>
+                <lat>34.851294</lat>
+                <lot>128.198261</lot>
+                <aslAltide>398.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000079</frtrlId>
+                <frtrlNm>천관산</frtrlNm>
+                <mtnCd>468001701</mtnCd>
+                <ctpvNm>전라남도</ctpvNm>
+                <addrNm>전라남도 장흥군 관산읍, 대덕읍</addrNm>
+                <lat>34.535402</lat>
+                <lot>126.911238</lot>
+                <aslAltide>723.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000080</frtrlId>
+                <frtrlNm>천마산</frtrlNm>
+                <mtnCd>413602201</mtnCd>
+                <ctpvNm>경기도</ctpvNm>
+                <addrNm>경기도 남양주시 오남읍, 화도읍</addrNm>
+                <lat>37.680364</lat>
+                <lot>127.273397</lot>
+                <aslAltide>812.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000081</frtrlId>
+                <frtrlNm>천성산</frtrlNm>
+                <mtnCd>483302101</mtnCd>
+                <ctpvNm>경상남도</ctpvNm>
+                <addrNm>경상남도 양산시 하북면, 상북면</addrNm>
+                <lat>35.378184</lat>
+                <lot>128.950771</lot>
+                <aslAltide>922.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000082</frtrlId>
+                <frtrlNm>천태산</frtrlNm>
+                <mtnCd>437403501</mtnCd>
+                <ctpvNm>충청북도</ctpvNm>
+                <addrNm>충청북도 영동군 양산면, 충청남도 금산군 제원면</addrNm>
+                <lat>36.159122</lat>
+                <lot>127.600005</lot>
+                <aslAltide>715.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000083</frtrlId>
+                <frtrlNm>청량산</frtrlNm>
+                <mtnCd>479203401</mtnCd>
+                <ctpvNm>경상북도</ctpvNm>
+                <addrNm>경상북도 봉화군 명호면ㆍ재산면, 안동시 도산면ㆍ예안면</addrNm>
+                <lat>36.794122</lat>
+                <lot>128.907994</lot>
+                <aslAltide>870.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000084</frtrlId>
+                <frtrlNm>추월산</frtrlNm>
+                <mtnCd>467101801</mtnCd>
+                <ctpvNm>전라북도</ctpvNm>
+                <addrNm>전라남도 담양군 용면, 전라북도 순창군 복흥면</addrNm>
+                <lat>35.399939</lat>
+                <lot>126.976087</lot>
+                <aslAltide>731.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000085</frtrlId>
+                <frtrlNm>축령산</frtrlNm>
+                <mtnCd>418203901</mtnCd>
+                <ctpvNm>경기도</ctpvNm>
+                <addrNm>경기도 가평군 상면, 남양주시 수동면</addrNm>
+                <lat>37.752705</lat>
+                <lot>127.333923</lot>
+                <aslAltide>879.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000086</frtrlId>
+                <frtrlNm>치악산</frtrlNm>
+                <mtnCd>421302401</mtnCd>
+                <ctpvNm>강원특별자치도</ctpvNm>
+                <addrNm>강원도 원주시, 횡성군, 영월군</addrNm>
+                <lat>37.365077</lat>
+                <lot>128.055568</lot>
+                <aslAltide>1288.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000087</frtrlId>
+                <frtrlNm>칠갑산</frtrlNm>
+                <mtnCd>447902001</mtnCd>
+                <ctpvNm>충청남도</ctpvNm>
+                <addrNm>충청남도 청양군 대치면, 정산면, 장평면</addrNm>
+                <lat>36.413006</lat>
+                <lot>126.884905</lot>
+                <aslAltide>561.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000088</frtrlId>
+                <frtrlNm>태백산</frtrlNm>
+                <mtnCd>421902201</mtnCd>
+                <ctpvNm>강원특별자치도</ctpvNm>
+                <addrNm>강원도 태백시, 경상북도 봉화군 석포면</addrNm>
+                <lat>37.096337</lat>
+                <lot>128.916532</lot>
+                <aslAltide>1567.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000089</frtrlId>
+                <frtrlNm>태화산</frtrlNm>
+                <mtnCd>427504901</mtnCd>
+                <ctpvNm>강원특별자치도</ctpvNm>
+                <addrNm>강원도 영월군 영월읍, 충청북도 단양군 영춘면</addrNm>
+                <lat>37.117601</lat>
+                <lot>128.486345</lot>
+                <aslAltide>1027.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000090</frtrlId>
+                <frtrlNm>팔공산</frtrlNm>
+                <mtnCd>271401201</mtnCd>
+                <ctpvNm>경상북도</ctpvNm>
+                <addrNm>대구광역시 동구, 경상북도 군위군 부계면, 영천시 신녕면</addrNm>
+                <lat>36.016137</lat>
+                <lot>128.694901</lot>
+                <aslAltide>1193.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000091</frtrlId>
+                <frtrlNm>팔봉산</frtrlNm>
+                <mtnCd>427206501</mtnCd>
+                <ctpvNm>강원특별자치도</ctpvNm>
+                <addrNm>강원도 홍천군 서면</addrNm>
+                <lat>37.696514</lat>
+                <lot>127.695577</lot>
+                <aslAltide>302.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000092</frtrlId>
+                <frtrlNm>팔영산</frtrlNm>
+                <mtnCd>467702901</mtnCd>
+                <ctpvNm>전라남도</ctpvNm>
+                <addrNm>전라남도 고흥군 영남면, 점암면</addrNm>
+                <lat>34.624358</lat>
+                <lot>127.430924</lot>
+                <aslAltide>609.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000093</frtrlId>
+                <frtrlNm>한라산</frtrlNm>
+                <mtnCd>491102401</mtnCd>
+                <ctpvNm>제주특별자치도</ctpvNm>
+                <addrNm>제주특별자치도</addrNm>
+                <lat>33.361578</lat>
+                <lot>126.535756</lot>
+                <aslAltide>1950.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000094</frtrlId>
+                <frtrlNm>화악산</frtrlNm>
+                <mtnCd>418204301</mtnCd>
+                <ctpvNm>경기도</ctpvNm>
+                <addrNm>경기도 가평군 북면, 강원도 화천군 사내면</addrNm>
+                <lat>37.988856</lat>
+                <lot>127.497655</lot>
+                <aslAltide>1468.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000095</frtrlId>
+                <frtrlNm>화왕산</frtrlNm>
+                <mtnCd>487403301</mtnCd>
+                <ctpvNm>경상남도</ctpvNm>
+                <addrNm>경상남도 창녕군 고암면, 창녕읍</addrNm>
+                <lat>35.547141</lat>
+                <lot>128.531682</lot>
+                <aslAltide>757.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000096</frtrlId>
+                <frtrlNm>황매산</frtrlNm>
+                <mtnCd>488906401</mtnCd>
+                <ctpvNm>경상남도</ctpvNm>
+                <addrNm>경상남도 합천군 가회면ㆍ대병면, 산청군 차황면</addrNm>
+                <lat>35.495206</lat>
+                <lot>127.974455</lot>
+                <aslAltide>1108.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000097</frtrlId>
+                <frtrlNm>황석산</frtrlNm>
+                <mtnCd>488703501</mtnCd>
+                <ctpvNm>경상남도</ctpvNm>
+                <addrNm>경상남도 함양군 서하면, 안의면, 서상면</addrNm>
+                <lat>35.730696</lat>
+                <lot>127.761191</lot>
+                <aslAltide>1190.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000098</frtrlId>
+                <frtrlNm>황악산</frtrlNm>
+                <mtnCd>471500901</mtnCd>
+                <ctpvNm>경상북도</ctpvNm>
+                <addrNm>경상북도 김천시 대항면</addrNm>
+                <lat>36.117593</lat>
+                <lot>127.966881</lot>
+                <aslAltide>1111.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000099</frtrlId>
+                <frtrlNm>황장산</frtrlNm>
+                <mtnCd>472801401</mtnCd>
+                <ctpvNm>경상북도</ctpvNm>
+                <addrNm>경상북도 문경시 동로면</addrNm>
+                <lat>36.812895</lat>
+                <lot>128.278063</lot>
+                <aslAltide>1077.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+            <item>
+                <frtrlId>0000000100</frtrlId>
+                <frtrlNm>희양산</frtrlNm>
+                <mtnCd>437603201</mtnCd>
+                <ctpvNm>경상북도</ctpvNm>
+                <addrNm>충청북도 괴산군 연풍면, 경상북도 문경시 가은읍</addrNm>
+                <lat>36.71469</lat>
+                <lot>128.00511</lot>
+                <aslAltide>999.0</aslAltide>
+                <crtrDt>2024-04-09 05:59:29</crtrDt>
+            </item>
+        </items>
+        <pageNo>1</pageNo>
+        <numOfRows>100</numOfRows>
+        <totalCount>100</totalCount>
+    </body>
+</response>
